@@ -1,0 +1,18 @@
+1 Is it possiblefor pointer to map register varible.
+what is storage class ?
+Regarding static variable
+function_()
+{
+static int a=10;
+{
+static int a=9;
+}
+}
+
+3. const static int a=10; 
+4. Recursion , what will be compaxity 
+5 what is boot loader.
+6 what is 32 and 64 bit architecture ?
+7 find bcd of two number 
+8 what will happen if  after starting kernel, it got stuck ?
+9.structuur padding ?
