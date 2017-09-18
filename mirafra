@@ -13,7 +13,8 @@ static int a=9;
 4. Recursion , what will be compaxity 
 5 what is boot loader.
 6 what is 32 and 64 bit architecture ?
-7 find bcd of two number 
+7 C program to find the GCD and LCM of two integers using Euclids' algorithm
+http://www.sanfoundry.com/c-program-gcd-lcm-two-integers/
 8 what will happen if  after starting kernel, it got stuck ?
 9.structuur padding ?
 Ans found 
